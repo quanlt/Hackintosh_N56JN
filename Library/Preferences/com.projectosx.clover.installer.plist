@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CloverRevision</key>
+	<integer>3241</integer>
+	<key>InstalledThemes</key>
+	<array>
+		<string>embedded</string>
+		<string>random</string>
+	</array>
+	<key>org.clover.bootloader.altboot</key>
+	<true/>
+	<key>org.clover.bootloader.boot0af</key>
+	<true/>
+	<key>org.clover.cloverefi.64.blockio</key>
+	<true/>
+	<key>org.clover.drivers64uefi.datahubdxe-64</key>
+	<true/>
+	<key>org.clover.drivers64uefi.emuvariableuefi-64</key>
+	<true/>
+	<key>org.clover.drivers64uefi.osxaptiofixdrv-64</key>
+	<true/>
+	<key>org.clover.drivers64uefi.partitiondxe-64</key>
+	<true/>
+	<key>org.clover.target.esp</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+
+Clover EFI installer log - Fri Aug  3 21:19:25 ICT 2018
+Installer version: v2.4k r4630 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *525.1 GB   disk0
+   1:                        EFI NO NAME                 209.7 MB   disk0s1
+   2:         Microsoft Reserved                         134.2 MB   disk0s2
+   3:       Microsoft Basic Data                         94.7 GB    disk0s3
+   4:           Windows Recovery                         533.7 MB   disk0s4
+   5:       Microsoft Basic Data DATA                    322.2 GB   disk0s5
+   6:                  Apple_HFS Macintosh HD            107.4 GB   disk0s6
+
+/dev/disk1 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *500.1 GB   disk1
+   1:       Microsoft Basic Data HDD                     392.7 GB   disk1s1
+   2:       Microsoft Basic Data BACKUP                  107.4 GB   disk1s2
+
+======================================================
+Backing up EFI files
+
+Backing up stage2 file /Volumes/Macintosh HD/EFIROOTDIR/boot  to /Volumes/Macintosh HD/EFI-Backups/r/2018-08-03-21h19/boot
+Backing up /Volumes/Macintosh HD/EFIROOTDIR/EFI folder to /Volumes/Macintosh HD/EFI-Backups/r/2018-08-03-21h19/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
