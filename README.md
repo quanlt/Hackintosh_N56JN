@@ -1,4 +1,4 @@
-# Hackintosh_N56JN
+# Hackintosh_N56JN MacOS HighSierra 10.13.6
 Repository contains kext and clover config for [Asus N56JN](https://www.asus.com/Laptops/N56JN/) (i5 version)
 
 # Working good with minor bugs:
